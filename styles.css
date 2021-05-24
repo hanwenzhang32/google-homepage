@@ -1,4 +1,4 @@
-ul {
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,4 +6,32 @@ ul {
 
 li {
     display: inline;
+}
+
+#search-bar {
+    width: 500px;
+    height: 2em;
+    border-radius: 1000px;
+    position: relative;
+}
+
+.main {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    text-align: center;
+}
+
+.mainButtons {
+    position: relative;
+    top:100px;
+}
+
+footer {
+    background-color:dimgray;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
