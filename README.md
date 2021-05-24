@@ -1,0 +1,1 @@
+This project is meant to practice HTML/CSS by replicating the google homepage. 
